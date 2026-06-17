@@ -35,7 +35,7 @@ Open the notebook directly in Google Colab, no local setup needed. Running all c
 will generate 6 figures (PNG) and a results table (CSV) which are directly downloaded
 to your computer.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ALorda/colorectal-cancer-biomarkers/blob/main/analysis.ipynb)
+[![Open In Colab] (https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ALorda/colorectal-cancer-biomarkers/blob/main/analysis.ipynb)
 
 ## Requirements
 Internet connection, if using Google Colab. 
