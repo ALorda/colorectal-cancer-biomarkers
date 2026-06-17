@@ -31,7 +31,9 @@ genes. Differential expression was assessed using Welch's t-test with Benjamini�
 FDR correction (|log₂FC| ≥ 1, FDR < 0.05).
 
 ## How to Run
-Open the notebook directly in Google Colab, no local setup needed.
+Open the notebook directly in Google Colab, no local setup needed. Running all cells 
+will generate 6 figures (PNG) and a results table (CSV) which are directly downloaded
+to your computer.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ALorda/colorectal-cancer-biomarkers/blob/main/analysis.ipynb)
 
